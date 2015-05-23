@@ -1,0 +1,1 @@
+An Simple clipboard tool for windows. Currently it can automatically change the information in the windows clipboard to pure text.
